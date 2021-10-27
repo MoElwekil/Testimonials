@@ -1,0 +1,19 @@
+{
+  "name": "testimonials",
+  "version": "1.0.0",
+  "description": "Testimonials Code",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoElwekil/Testimonials.git"
+  },
+  "author": "MoElwekil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoElwekil/Testimonials/issues"
+  },
+  "homepage": "https://github.com/MoElwekil/Testimonials#readme"
+}
